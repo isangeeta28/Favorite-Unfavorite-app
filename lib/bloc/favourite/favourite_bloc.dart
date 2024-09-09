@@ -1,5 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:testapp/bloc/favourite_state.dart';
+import 'package:testapp/bloc/favourite/favourite_state.dart';
 
 import 'favourite_event.dart';
 
